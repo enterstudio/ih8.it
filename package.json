@@ -4,14 +4,14 @@
     "dependencies": {
         "express": "2.5.x",
         "utml": "0.2.x",
-        "underscore": "1.4.x",
+        "underscore": "1.12.1",
         "webfinger": "0.1.x",
         "databank": "0.15.x",
         "underscore": "1.4.x",
         "dialback-client": ">=0.1.1",
         "oauth": "0.9.x",
         "async": "0.1.x",
-        "connect-databank": "0.6.x",
+        "connect-databank": "1.0.1",
         "node-uuid": "1.4.x",
         "bunyan": "0.16.x",
         "jsdom": "0.5.x"
