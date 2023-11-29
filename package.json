@@ -14,6 +14,6 @@
         "connect-databank": "0.6.x",
         "node-uuid": "1.4.x",
         "bunyan": "0.16.x",
-        "jsdom": "0.5.x"
+        "jsdom": "16.6.0"
     }
 }
